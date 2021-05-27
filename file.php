@@ -51,7 +51,7 @@ require_once($_SERVER["DOCUMENT_ROOT"]."/content/users/users_agreement_module.ph
 ?>
 
 <div class="text-center">
-	<a class="btn btn-ar btn-primary" href="javascript:void(0);" onclick="nextStep();">Turpināt</a>
+	<a class="btn btn-ar btn-primary" href="javascript:void(0);" onclick="nextStep();">Continue</a>
 </div>
 
 <script>
